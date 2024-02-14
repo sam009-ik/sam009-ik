@@ -1,6 +1,6 @@
 # 👋 Hello, I'm @sam009-ik
 
-Welcome to my GitHub! I'm a passionate individual who thrives on the integration of technology and social sciences. My interests are diverse, ranging from philosophy and puzzles to animation, augmented reality (AR), and the fascinating world of AI and machine learning models. I'm currently on an exciting journey of knowledge and discovery, pursuing a Master's degree in Development Studies at TISS, Mumbai, and exploring various fields to fuel my career aspirations.
+Welcome to my GitHub! I'm a passionate individual who thrives on the integration of technology and social sciences. My interests are diverse, ranging from philosophy and puzzles to animation,to the the fascinating world of AI and machine learning models. I'm currently on an exciting journey of knowledge and discovery, pursuing a Master's degree in Development Studies at TISS, Mumbai, and exploring various fields to fuel my career aspirations.
 
 ## 🌱 What I'm Learning
 
@@ -8,6 +8,7 @@ I am committed to a path of continuous learning and growth. Alongside my Master'
 - Diving deep into computer science fundamentals with [CS50](https://cs50.harvard.edu/), [Codecademy](https://www.codecademy.com/), and [GeeksforGeeks](https://www.geeksforgeeks.org/).
 - Enhancing my problem-solving skills through a Competitive Programming course.
 - Venturing into the realm of data science, eager to unlock the potential of AI and machine learning models.
+- Full stack development and Data engineering
 
 ## 🚀 Projects
 
