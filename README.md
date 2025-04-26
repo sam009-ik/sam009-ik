@@ -1,33 +1,61 @@
-# 👋 Hello, I'm @sam009-ik
+## 👋 Hi, I'm Samarth Narula
 
-Welcome to my GitHub! I'm a passionate individual who thrives on the integration of technology and social sciences. My interests are diverse, ranging from philosophy and puzzles to animation,to the the fascinating world of AI and machine learning models. I'm currently on an exciting journey of knowledge and discovery, pursuing a Master's degree in Development Studies at TISS, Mumbai, and exploring various fields to fuel my career aspirations.
+I’m a data science and machine learning enthusiast, currently pursuing a Diploma in Data Science and Applications from IIT Madras (CGPA: 8.75).
+Alongside, I work as a Deputy Research Manager at Sambodhi Research and Communications, applying statistical modeling and machine learning techniques to large-scale evaluation projects.
 
-## 🌱 What I'm Learning
+My interest in data science is rooted deeper — having played competitive football growing up, I developed a fascination with anticipation, prediction, and pattern recognition. Whether it was on the field or in strategic games like chess, the challenge of making sense of complex situations naturally extended into my academic and technical journey.
 
-I am committed to a path of continuous learning and growth. Alongside my Master's degree, I am:
-- Diving deep into computer science fundamentals with [CS50](https://cs50.harvard.edu/), [Codecademy](https://www.codecademy.com/), and [GeeksforGeeks](https://www.geeksforgeeks.org/).
-- Enhancing my problem-solving skills through a Competitive Programming course.
-- Venturing into the realm of data science, eager to unlock the potential of AI and machine learning models.
-- Full stack development and Data engineering
+Data Science allows me to move beyond surface-level analytics: to understand data at its core, think in terms of random variables and uncertainty, clean and shape data meaningfully, and tweak models with intuition backed by strong mathematical foundations — leading up to those moments where patterns click, and insights emerge.
 
-## 🚀 Projects
+## 🛠️ Core Skills
 
-My projects reflect my eclectic interests and my passion for combining technology with the social sciences:
+Machine Learning: Supervised and unsupervised models (Scikit-Learn, TensorFlow, PyTorch)
 
-- **Final Project for CS50**: A dynamic [Nokia Snake Game](https://nokia-snake-game-09f6f3ef60b8.herokuapp.com/register) built with JavaScript (frontend), Python's Flask (backend), and PostgreSQL (database management).
-- **Echoes of Self: Exploration of Vipassana**: My dissertation project at TISS, employing Natural Language Processing and the LDA model to analyze Vipassana transcripts, facilitating an organic emergence of themes.
-- Additional projects in data science, featuring analysis, graphs, and a GIS project involving maps.
+Statistical Analysis: Regression, Propensity Score Matching, Difference-in-Differences
 
-## 💞️ Collaboration
+Time Series Modeling: ARIMA, SARIMAX, Exponential Smoothing
 
-I am open to collaborating on a wide range of projects. My curiosity and enthusiasm for learning and building cool stuff know no bounds. Whether it's software development, data analysis, or research, I'm eager to contribute and expand my horizons.
+Data Engineering: Python (Pandas, NumPy, Statsmodels), SQL (Postgres, MySQL, SQLAlchemy), Stata, MS Excel
 
-## 📫 How to Reach Me
+Natural Language Processing: Text analysis, Sentiment analysis, Topic modeling
 
-Feel free to connect with me:
-- Email: [samarthnarula7@gmail.com](mailto:samarthnarula7@gmail.com)
-- Portfolio: [https://portfolio-homepage-adlezmas.netlify.app/](https://portfolio-homepage-adlezmas.netlify.app/)
-- GitHub: [https://github.com/sam009-ik](https://github.com/sam009-ik)
+Version Control and Deployment: Git, Docker
+
+## 📂 Select Projects
+
+Predicting Food Ratings (Kaggle Competition) 
+(https://www.kaggle.com/competitions/cs-2008-mlp-predict-food-ratings/overview)
+
+Developed multi-class classification models (Logistic Regression, Decision Trees, SVM), ranked among the top 5%.
+
+Demand Forecasting Pipeline (Technical Walkthrough)
+(https://storied-dieffenbachia-74699d.netlify.app/)
+
+Built a forecasting pipeline combining SQLAlchemy for data processing and ARIMA/SARIMAX models for prediction.
+
+Vipassana Narratives through NLP
+(https://github.com/sam009-ik/thesis_vipassana_nlp/tree/master)
+
+Applied NLP techniques like LDA, NER, sentiment analysis and basic topic modeling to explore emotional patterns in meditation narratives.
+
+CS50 Final Project - Nokia Snake Game
+(https://nokia-snake-game-09f6f3ef60b8.herokuapp.com/register)
+
+Created a web-based version of the classic Snake game using CSS, Flask and MySQL.
+
+
+
+## Contact
+
+Email: samarthnarula7@gmail.com
+
+24ds2000110@ds.study.iitm.ac.in
+
+GitHub: https://github.com/sam009-ik
+
+LinkedIn: https://www.linkedin.com/in/samarth-narula-073382170/
+
+
 
 Thank you for visiting my profile! Let's explore the endless possibilities that technology and creativity can bring to our world.
 
